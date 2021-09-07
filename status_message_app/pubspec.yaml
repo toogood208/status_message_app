@@ -31,11 +31,15 @@ dependencies:
   http:
   share_plus:
   font_awesome_flutter:
-  provider:
+  stacked:
+  stacked_services:
+
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  stacked_generator:
+  build_runner:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

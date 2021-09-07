@@ -24,4 +24,9 @@ class StatusMessageModel {
     map['Message'] = _message;
     return map;
   }
+
+  @override
+  String toString() {
+    return 'StatusMessageModel(category:$category,message:$message)';
+  }
 }
